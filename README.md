@@ -7,4 +7,4 @@ The interfacing is specifically geared for the **Spring 2024 ULAB project** I pa
 Here's a quick diagram of the circuit that the lock-in amplifier was connected to:
 ![The mock-NV and reading circuit](/README-assets/circuit.svg)
 
-You can also find more details on the project with the [poster](ulabposter.pdf) we presented which is in the repository.
+You can also find more details on the project with the [poster](ulabposter.pdf) we presented which is posted in the repository.
